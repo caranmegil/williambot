@@ -1,7 +1,7 @@
 {
-  "name": "aethred-matrixorg",
+  "name": "williambot",
   "version": "0.0.1",
-  "description": "Exposing the aethred chatbot to Matrix",
+  "description": "Exposing the williambot chatbot to Matrix",
   "main": "index.js",
   "author": "William R. Moore",
   "license": "GPL-2.0-only",
